@@ -1,0 +1,17 @@
+PODS:
+  - Charts (3.0.1):
+    - Charts/Core (= 3.0.1)
+  - Charts/Core (3.0.1)
+  - Eureka (2.0.0-beta.1)
+
+DEPENDENCIES:
+  - Charts
+  - Eureka (~> 2.0.0-beta.1)
+
+SPEC CHECKSUMS:
+  Charts: 0e84f4418e87dad6a9edde221fba37ebb51d3ba7
+  Eureka: d014adf16406745e1a78d5790ea37ed130a0a8e5
+
+PODFILE CHECKSUM: 9d5c1a0918477e422f8c096dbbca0cc38fb1ebd3
+
+COCOAPODS: 1.1.1
